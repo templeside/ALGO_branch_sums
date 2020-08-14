@@ -38,7 +38,7 @@ class Program {
 		listBranchSums(root.left,numSum,sums);
 		listBranchSums(root.right,numSum,sums);
 	}
-}
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
